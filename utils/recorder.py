@@ -15,7 +15,7 @@ class Recorder:
             os.mkdir(self.SAVE_FOLDER)
 
 
-    def record_audio(self,duration,file_name,input_device_id=None):
+    def record_audio(self,duration:int,file_name:str,input_device_id:int=None):
 
         # initialising pyaudio object
         p = pyaudio.PyAudio()
