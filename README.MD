@@ -7,7 +7,7 @@ Mainly to make simplified voice assistants that can run locally with minimum res
 ## TODO
 
 - [x] create recorder class
-- [ ] create scripts to make using recorder class simple
+- [x] create scripts to make using recorder class simple
 - [ ] create script to process and clean up recorded data
 
 - [ ] create script to train speech recognition model on processed data
