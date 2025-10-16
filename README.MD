@@ -1,8 +1,7 @@
 
-# Metis : A custom built word recognition model
+# Metis : A custom built word recognition model and assistant
 
-Metis is built to be a quick and lightweight model that can recognise custom keywords.
-Mainly to make simplified voice assistants that can run locally with minimum resources and allows flexibility.
+Metis is a custom-built, lightweight, highly-customizable voice recognition engine and assitant built in Python. It enables training on user-defined keywords and executes pre-written scripts based on recognized commands. Designed for local, offline use. Ideal for simple automation tasks.
 
 ## TODO
 
@@ -16,3 +15,7 @@ Mainly to make simplified voice assistants that can run locally with minimum res
 - [ ] create code to be executed (code to play music,creating template of a project)
 
 - [ ] create requirements.txt
+
+## actions
+
+- Universal play/pause.
